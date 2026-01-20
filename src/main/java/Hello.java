@@ -1,5 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Hello Jenkins Build Success!");
+        System.out.println("Hello Jenkins CI/CD Demo");
+        System.out.println("This program is automatically built and run by Jenkins.");
     }
 }
